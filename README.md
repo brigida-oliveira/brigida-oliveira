@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Glad to see you here! I'm a person who loves arts and technology!
-
 <!--
 **brigida-oliveira/brigida-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
