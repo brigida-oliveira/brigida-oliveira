@@ -7,9 +7,10 @@ Glad to see you here! I'm a person who loves arts and technology!
 - 🔭 I’m currently working on my master thesis in Teleinformatics Engineering.
 - 🌱 I’m currently learning Kotlin, React and machine learning.
 - 🎓 I have a degree in Computer Engineer. 
-- 💬 Ask me about Python, HTML, CSS and Javascript.
+- 💬 Ask me about Python, HTML, CSS, Javascript, Android and Kotlin.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm pretty good at drawing too.
+- 📫 Email: brigida.f.c.oj@gmail.com
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brigida-oliveira&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brigida-oliveira&layout=compact)
