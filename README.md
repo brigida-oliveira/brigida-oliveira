@@ -11,6 +11,7 @@ Glad to see you here! I'm a person who loves arts and technology!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm pretty good at drawing too.
 - 📫 Email: brigida.f.c.oj@gmail.com
+- 📫 LinkedIn: https://www.linkedin.com/in/brigida-f-c-oliveira-06295170/
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brigida-oliveira&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brigida-oliveira&layout=compact)
