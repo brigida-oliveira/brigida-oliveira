@@ -14,5 +14,8 @@ Glad to see you here! I'm a person who loves arts and technology!
 - 📫 LinkedIn: https://www.linkedin.com/in/brigida-f-c-oliveira-06295170/
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brigida-oliveira&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brigida-oliveira&layout=compact)
+<div align="center">
+  <a href="https://github.com/brigida-oliveira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brigida-oliveira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ababff&icon_color=ababff&text_color=D3D3D3&bg_color=0,000000,290d40" alt="brigida-oliveira's Github Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brigida-oliveira=compact&title_color=ababff&text_color=D3D3D3&bg_color=0,000000,290d40"/>
+</div>
