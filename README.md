@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Python, Kotlin and Android development.  
 - 🌱 I’m currently learning Keras and TensorFlow.  
-- 🎓 I have a degree in Computer Engineer.  
+- 🎓 I have a degree in Computer Engineer and a master's degree in Teleinformatics Engineering.  
 - ❓ Ask me about Python, HTML, CSS, Javascript, Android and Kotlin.  
 - ⚡ Fun fact: I'm pretty good at drawing too.  
   
