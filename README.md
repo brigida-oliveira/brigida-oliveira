@@ -1,6 +1,4 @@
-<div style="width: 100%; height: 300px;">
-    <iframe src="https://github.com/brigida-oliveira/brigida-oliveira/blob/main/Animation_-_ola_mundo.json"></iframe>
-</div>
+
 
 ### <div align="center">I am a computer engineer graduated from the Federal University of Ceará and  I work with web and mobile development.</div>  
   
