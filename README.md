@@ -1,6 +1,4 @@
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
 
-<iframe src="https://lottie.host/embed/4cb5b0ba-38db-412f-9943-af296e3e000f/gnmCXYz0Dr.json"></iframe>
 
 ### <div align="center">I am a computer engineer graduated from the Federal University of Ceará and  I work with web and mobile development.</div>  
   
