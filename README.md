@@ -1,4 +1,5 @@
-
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<dotlottie-player src="https://lottie.host/0e251d60-5003-4710-92d1-c84c86baf932/IRC0AJKMp2.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 
 ### <div align="center">I am a computer engineer graduated from the Federal University of Ceará and  I work with web and mobile development.</div>  
   
