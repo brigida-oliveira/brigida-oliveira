@@ -1,6 +1,5 @@
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
 
-<dotlottie-player src="https://raw.githubusercontent.com/brigida-oliveira/brigida-oliveira/main/Animation_-_ola_mundo.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<img src="https://github.com/brigida-oliveira/brigida-oliveira/blob/main/Animation_-_ola_mundo.gif" width="50%" height="50%" align="center"/>
 
 ### <div align="center">I am a computer engineer graduated from the Federal University of Ceará and  I work with web and mobile development.</div>  
   
