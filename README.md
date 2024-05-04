@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="https://github.com/brigida-oliveira/brigida-oliveira/blob/main/Animation_-_ola_mundo.gif" width="50%" height="50%" align="center"/></div>
+<p align="center"><img src="https://github.com/brigida-oliveira/brigida-oliveira/blob/main/Animation_-_ola_mundo.gif" width="50%" height="50%"/></p>
 
 ### <div align="center">I am a computer engineer graduated from the Federal University of Ceará and  I work with web and mobile development.</div>  
   
